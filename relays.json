@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "generated_at": "2026-10-19T20:32:05Z",
+  "generated_at": "2026-10-20T00:13:26Z",
   "monitor": {
     "frequency_seconds": 10800,
     "timeout_ms": 30000,
@@ -13,8 +13,8 @@
   },
   "summary": {
     "total": 107,
-    "healthy": 76,
-    "flaky": 1,
+    "healthy": 77,
+    "flaky": 0,
     "warn": 0,
     "dead": 15,
     "stale": 0,
@@ -115,11 +115,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:06Z",
-        "last_success": "2026-10-19T20:31:06Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 4624
+        "rtt_open_ms": 727
       }
     },
     {
@@ -140,11 +140,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:30:59Z",
-        "last_success": "2026-10-19T20:30:59Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 804,
+        "rtt_open_ms": 997,
         "supported_nips": [],
         "nip11_software": "NFDB",
         "nip11_version": "2.0 γ5"
@@ -165,11 +165,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:30:58Z",
-        "last_success": "2026-10-19T20:30:58Z",
+        "last_checked": "2026-10-20T00:12:22Z",
+        "last_success": "2026-10-20T00:12:22Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 376,
+        "rtt_open_ms": 528,
         "supported_nips": [
           1,
           2,
@@ -200,11 +200,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:03Z",
-        "last_success": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:22Z",
+        "last_success": "2026-10-20T00:12:22Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 4540,
+        "rtt_open_ms": 627,
         "supported_nips": [
           1,
           11,
@@ -230,11 +230,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:02Z",
-        "last_success": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 3723,
+        "rtt_open_ms": 2331,
         "supported_nips": [
           1,
           11
@@ -254,11 +254,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:30:58Z",
-        "last_success": "2026-10-19T20:30:58Z",
+        "last_checked": "2026-10-20T00:12:22Z",
+        "last_success": "2026-10-20T00:12:22Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 206,
+        "rtt_open_ms": 277,
         "supported_nips": [
           1,
           2,
@@ -296,9 +296,9 @@
       "network": "clearnet",
       "health": {
         "state": "dead",
-        "last_checked": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:21Z",
         "last_success": null,
-        "consecutive_failures": 215,
+        "consecutive_failures": 216,
         "last_outcome": "failure",
         "last_error": "unexpected HTTP status 200 during WebSocket handshake"
       }
@@ -321,11 +321,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:02Z",
-        "last_success": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 3926,
+        "rtt_open_ms": 988,
         "supported_nips": [],
         "nip11_software": "NFDB",
         "nip11_version": "2.0 γ5"
@@ -344,11 +344,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:30:59Z",
-        "last_success": "2026-10-19T20:30:59Z",
+        "last_checked": "2026-10-20T00:12:22Z",
+        "last_success": "2026-10-20T00:12:22Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 679,
+        "rtt_open_ms": 625,
         "supported_nips": [
           1,
           11,
@@ -383,11 +383,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:30:59Z",
-        "last_success": "2026-10-19T20:30:59Z",
+        "last_checked": "2026-10-20T00:12:22Z",
+        "last_success": "2026-10-20T00:12:22Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 577,
+        "rtt_open_ms": 448,
         "supported_nips": [
           1,
           2,
@@ -420,7 +420,7 @@
       "network": "clearnet",
       "health": {
         "state": "blocked",
-        "last_checked": "2026-10-19T20:30:58Z",
+        "last_checked": "2026-10-20T00:12:21Z",
         "last_success": "2026-09-12T22:56:42Z",
         "consecutive_failures": 0,
         "last_outcome": "blocked",
@@ -454,11 +454,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:03Z",
-        "last_success": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 4733,
+        "rtt_open_ms": 960,
         "supported_nips": [
           1,
           11,
@@ -486,11 +486,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:03Z",
-        "last_success": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:22Z",
+        "last_success": "2026-10-20T00:12:22Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 4611,
+        "rtt_open_ms": 624,
         "supported_nips": [
           1,
           11,
@@ -525,11 +525,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:30:59Z",
-        "last_success": "2026-10-19T20:30:59Z",
+        "last_checked": "2026-10-20T00:12:22Z",
+        "last_success": "2026-10-20T00:12:22Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 538,
+        "rtt_open_ms": 391,
         "supported_nips": [
           1,
           2,
@@ -556,11 +556,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:02Z",
-        "last_success": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:22Z",
+        "last_success": "2026-10-20T00:12:22Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 4229,
+        "rtt_open_ms": 633,
         "supported_nips": [
           1,
           11,
@@ -588,11 +588,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:30:58Z",
-        "last_success": "2026-10-19T20:30:58Z",
+        "last_checked": "2026-10-20T00:12:22Z",
+        "last_success": "2026-10-20T00:12:22Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 351,
+        "rtt_open_ms": 362,
         "supported_nips": [
           1,
           9,
@@ -621,9 +621,9 @@
       "network": "clearnet",
       "health": {
         "state": "dead",
-        "last_checked": "2026-10-19T20:30:58Z",
+        "last_checked": "2026-10-20T00:12:22Z",
         "last_success": null,
-        "consecutive_failures": 215,
+        "consecutive_failures": 216,
         "last_outcome": "failure",
         "last_error": "unexpected HTTP status 521 during WebSocket handshake"
       }
@@ -641,11 +641,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:03Z",
-        "last_success": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:22Z",
+        "last_success": "2026-10-20T00:12:22Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 4409,
+        "rtt_open_ms": 494,
         "supported_nips": [
           1,
           11,
@@ -670,11 +670,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:30:58Z",
-        "last_success": "2026-10-19T20:30:58Z",
+        "last_checked": "2026-10-20T00:12:22Z",
+        "last_success": "2026-10-20T00:12:22Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 210,
+        "rtt_open_ms": 266,
         "supported_nips": [
           1,
           2,
@@ -712,11 +712,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:30:59Z",
-        "last_success": "2026-10-19T20:30:59Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 645,
+        "rtt_open_ms": 627,
         "supported_nips": [
           1,
           2,
@@ -747,11 +747,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:00Z",
-        "last_success": "2026-10-19T20:31:00Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 861,
+        "rtt_open_ms": 843,
         "supported_nips": [
           1,
           2,
@@ -785,11 +785,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:02Z",
-        "last_success": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:22Z",
+        "last_success": "2026-10-20T00:12:22Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 373,
+        "rtt_open_ms": 255,
         "supported_nips": [
           1,
           2,
@@ -823,11 +823,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:30:59Z",
-        "last_success": "2026-10-19T20:30:59Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 807,
+        "rtt_open_ms": 754,
         "supported_nips": [
           1,
           2,
@@ -864,11 +864,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:02Z",
-        "last_success": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 3868,
+        "rtt_open_ms": 715,
         "supported_nips": [],
         "nip11_software": "NFDB",
         "nip11_version": "2.0 γ5"
@@ -890,11 +890,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:03Z",
-        "last_success": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:22Z",
+        "last_success": "2026-10-20T00:12:22Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 4443,
+        "rtt_open_ms": 606,
         "supported_nips": [
           1,
           2,
@@ -927,11 +927,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:30:59Z",
-        "last_success": "2026-10-19T20:30:59Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 874,
+        "rtt_open_ms": 1023,
         "supported_nips": [
           1,
           2,
@@ -966,7 +966,7 @@
       "network": "clearnet",
       "health": {
         "state": "blocked",
-        "last_checked": "2026-10-19T20:30:58Z",
+        "last_checked": "2026-10-20T00:12:21Z",
         "last_success": null,
         "consecutive_failures": 0,
         "last_outcome": "blocked",
@@ -984,11 +984,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:30:59Z",
-        "last_success": "2026-10-19T20:30:59Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 960,
+        "rtt_open_ms": 1036,
         "supported_nips": [
           1,
           2,
@@ -1020,7 +1020,7 @@
       "network": "clearnet",
       "health": {
         "state": "blocked",
-        "last_checked": "2026-10-19T20:31:10Z",
+        "last_checked": "2026-10-20T00:12:21Z",
         "last_success": null,
         "consecutive_failures": 0,
         "last_outcome": "blocked",
@@ -1039,11 +1039,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:30:59Z",
-        "last_success": "2026-10-19T20:30:59Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 500,
+        "rtt_open_ms": 623,
         "supported_nips": [
           1,
           2,
@@ -1082,11 +1082,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:02Z",
-        "last_success": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:22Z",
+        "last_success": "2026-10-20T00:12:22Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 3776,
+        "rtt_open_ms": 751,
         "supported_nips": [
           1,
           2,
@@ -1114,11 +1114,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:02Z",
-        "last_success": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:22Z",
+        "last_success": "2026-10-20T00:12:22Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 456,
+        "rtt_open_ms": 525,
         "supported_nips": [
           1,
           2,
@@ -1145,9 +1145,9 @@
       "network": "clearnet",
       "health": {
         "state": "dead",
-        "last_checked": "2026-10-19T20:30:58Z",
+        "last_checked": "2026-10-20T00:12:22Z",
         "last_success": null,
-        "consecutive_failures": 215,
+        "consecutive_failures": 216,
         "last_outcome": "failure",
         "last_error": "unexpected HTTP status 302 during WebSocket handshake"
       }
@@ -1165,11 +1165,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:30:59Z",
-        "last_success": "2026-10-19T20:30:59Z",
+        "last_checked": "2026-10-20T00:12:22Z",
+        "last_success": "2026-10-20T00:12:22Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 587,
+        "rtt_open_ms": 649,
         "supported_nips": [
           1,
           11,
@@ -1198,11 +1198,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:03Z",
-        "last_success": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 4314,
+        "rtt_open_ms": 628,
         "supported_nips": [
           1,
           11,
@@ -1235,11 +1235,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:30:59Z",
-        "last_success": "2026-10-19T20:30:59Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 544,
+        "rtt_open_ms": 640,
         "supported_nips": [
           1,
           2,
@@ -1266,11 +1266,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:30:59Z",
-        "last_success": "2026-10-19T20:30:59Z",
+        "last_checked": "2026-10-20T00:12:22Z",
+        "last_success": "2026-10-20T00:12:22Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 198,
+        "rtt_open_ms": 346,
         "supported_nips": [
           1,
           2,
@@ -1309,11 +1309,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:00Z",
-        "last_success": "2026-10-19T20:31:00Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 672,
+        "rtt_open_ms": 713,
         "supported_nips": [
           1,
           11,
@@ -1346,11 +1346,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:03Z",
-        "last_success": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 3902,
+        "rtt_open_ms": 865,
         "supported_nips": [],
         "nip11_software": "NFDB",
         "nip11_version": "2.0 γ5"
@@ -1373,11 +1373,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:30:59Z",
-        "last_success": "2026-10-19T20:30:59Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 533,
+        "rtt_open_ms": 581,
         "supported_nips": [
           1,
           11,
@@ -1410,7 +1410,7 @@
       "network": "clearnet",
       "health": {
         "state": "blocked",
-        "last_checked": "2026-10-19T20:30:59Z",
+        "last_checked": "2026-10-20T00:12:22Z",
         "last_success": "2026-09-10T11:07:46Z",
         "consecutive_failures": 13,
         "last_outcome": "blocked",
@@ -1446,11 +1446,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:30:59Z",
-        "last_success": "2026-10-19T20:30:59Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 276
+        "rtt_open_ms": 379
       }
     },
     {
@@ -1470,12 +1470,12 @@
       ],
       "network": "clearnet",
       "health": {
-        "state": "flaky",
-        "last_checked": "2026-10-19T20:31:02Z",
-        "last_success": "2026-10-19T12:52:52Z",
-        "consecutive_failures": 1,
-        "last_outcome": "failure",
-        "last_error": "unexpected HTTP status 503 during WebSocket handshake",
+        "state": "healthy",
+        "last_checked": "2026-10-20T00:12:22Z",
+        "last_success": "2026-10-20T00:12:22Z",
+        "consecutive_failures": 0,
+        "last_outcome": "success",
+        "rtt_open_ms": 155,
         "supported_nips": [
           1,
           2,
@@ -1506,11 +1506,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:02Z",
-        "last_success": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 3628,
+        "rtt_open_ms": 251,
         "supported_nips": [
           1,
           4,
@@ -1556,11 +1556,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:30:59Z",
-        "last_success": "2026-10-19T20:30:59Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 317,
+        "rtt_open_ms": 374,
         "supported_nips": [
           1,
           11,
@@ -1587,9 +1587,9 @@
       "network": "clearnet",
       "health": {
         "state": "dead",
-        "last_checked": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:22Z",
         "last_success": "2026-09-19T22:52:29Z",
-        "consecutive_failures": 114,
+        "consecutive_failures": 115,
         "last_outcome": "failure",
         "last_error": "unexpected HTTP status 301 during WebSocket handshake",
         "supported_nips": [
@@ -1619,11 +1619,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:03Z",
-        "last_success": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 3961,
+        "rtt_open_ms": 345,
         "supported_nips": [
           1,
           2,
@@ -1660,9 +1660,9 @@
       "network": "clearnet",
       "health": {
         "state": "dead",
-        "last_checked": "2026-10-19T20:32:02Z",
+        "last_checked": "2026-10-20T00:13:25Z",
         "last_success": null,
-        "consecutive_failures": 215,
+        "consecutive_failures": 216,
         "last_outcome": "failure",
         "last_error": "probe timed out after 30s"
       }
@@ -1678,11 +1678,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:04Z",
-        "last_success": "2026-10-19T20:31:04Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 4331,
+        "rtt_open_ms": 1042,
         "supported_nips": [
           1,
           11,
@@ -1707,11 +1707,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:01Z",
-        "last_success": "2026-10-19T20:31:01Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 968,
+        "rtt_open_ms": 1171,
         "supported_nips": [
           1,
           2,
@@ -1748,11 +1748,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:01Z",
-        "last_success": "2026-10-19T20:31:01Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 652,
+        "rtt_open_ms": 880,
         "supported_nips": [
           1,
           2,
@@ -1785,11 +1785,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:04Z",
-        "last_success": "2026-10-19T20:31:04Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 4652,
+        "rtt_open_ms": 843,
         "supported_nips": [
           1,
           11,
@@ -1825,11 +1825,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:00Z",
-        "last_success": "2026-10-19T20:31:00Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 563,
+        "rtt_open_ms": 653,
         "supported_nips": [
           1,
           2,
@@ -1856,11 +1856,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:04Z",
-        "last_success": "2026-10-19T20:31:04Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 4060,
+        "rtt_open_ms": 967,
         "supported_nips": [
           1,
           9,
@@ -1885,11 +1885,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:01Z",
-        "last_success": "2026-10-19T20:31:01Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 684,
+        "rtt_open_ms": 963,
         "supported_nips": [
           1,
           11,
@@ -1917,11 +1917,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:01Z",
-        "last_success": "2026-10-19T20:31:01Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 609,
+        "rtt_open_ms": 599,
         "supported_nips": [
           1,
           11,
@@ -1943,11 +1943,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:00Z",
-        "last_success": "2026-10-19T20:31:00Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 198,
+        "rtt_open_ms": 254,
         "supported_nips": [
           1,
           2,
@@ -1979,11 +1979,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:00Z",
-        "last_success": "2026-10-19T20:31:00Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 228,
+        "rtt_open_ms": 208,
         "supported_nips": [
           1,
           2,
@@ -2018,9 +2018,9 @@
       "network": "clearnet",
       "health": {
         "state": "dead",
-        "last_checked": "2026-10-19T20:31:01Z",
+        "last_checked": "2026-10-20T00:12:23Z",
         "last_success": "2026-08-31T20:45:43Z",
-        "consecutive_failures": 203,
+        "consecutive_failures": 204,
         "last_outcome": "failure",
         "last_error": "unexpected HTTP status 200 during WebSocket handshake",
         "supported_nips": [
@@ -2047,9 +2047,9 @@
       "network": "clearnet",
       "health": {
         "state": "dead",
-        "last_checked": "2026-10-19T20:31:01Z",
+        "last_checked": "2026-10-20T00:12:23Z",
         "last_success": "2026-08-31T20:45:43Z",
-        "consecutive_failures": 203,
+        "consecutive_failures": 204,
         "last_outcome": "failure",
         "last_error": "unexpected HTTP status 200 during WebSocket handshake",
         "supported_nips": [
@@ -2076,9 +2076,9 @@
       "network": "clearnet",
       "health": {
         "state": "dead",
-        "last_checked": "2026-10-19T20:31:01Z",
+        "last_checked": "2026-10-20T00:12:23Z",
         "last_success": "2026-08-31T20:45:43Z",
-        "consecutive_failures": 203,
+        "consecutive_failures": 204,
         "last_outcome": "failure",
         "last_error": "unexpected HTTP status 200 during WebSocket handshake",
         "supported_nips": [
@@ -2105,11 +2105,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:02Z",
-        "last_success": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 577,
+        "rtt_open_ms": 563,
         "supported_nips": [
           1,
           11,
@@ -2134,9 +2134,9 @@
       "network": "clearnet",
       "health": {
         "state": "dead",
-        "last_checked": "2026-10-19T20:31:01Z",
+        "last_checked": "2026-10-20T00:12:23Z",
         "last_success": "2026-08-31T20:45:43Z",
-        "consecutive_failures": 203,
+        "consecutive_failures": 204,
         "last_outcome": "failure",
         "last_error": "unexpected HTTP status 200 during WebSocket handshake",
         "supported_nips": [
@@ -2163,11 +2163,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:02Z",
-        "last_success": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 631,
+        "rtt_open_ms": 584,
         "supported_nips": [
           1,
           11,
@@ -2196,11 +2196,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:06Z",
-        "last_success": "2026-10-19T20:31:06Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 4609,
+        "rtt_open_ms": 1030,
         "supported_nips": [
           1,
           11,
@@ -2223,11 +2223,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:02Z",
-        "last_success": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 663,
+        "rtt_open_ms": 662,
         "supported_nips": [
           1,
           11,
@@ -2251,11 +2251,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:05Z",
-        "last_success": "2026-10-19T20:31:05Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 4162,
+        "rtt_open_ms": 291,
         "supported_nips": [
           1,
           11,
@@ -2280,11 +2280,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:02Z",
-        "last_success": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 642,
+        "rtt_open_ms": 697,
         "supported_nips": [
           1,
           11,
@@ -2308,11 +2308,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:02Z",
-        "last_success": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 299,
+        "rtt_open_ms": 386,
         "supported_nips": [
           40,
           9,
@@ -2336,7 +2336,7 @@
       "network": "clearnet",
       "health": {
         "state": "blocked",
-        "last_checked": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:23Z",
         "last_success": null,
         "consecutive_failures": 0,
         "last_outcome": "blocked",
@@ -2357,7 +2357,7 @@
       "network": "clearnet",
       "health": {
         "state": "blocked",
-        "last_checked": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:23Z",
         "last_success": null,
         "consecutive_failures": 0,
         "last_outcome": "blocked",
@@ -2378,7 +2378,7 @@
       "network": "clearnet",
       "health": {
         "state": "blocked",
-        "last_checked": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:23Z",
         "last_success": null,
         "consecutive_failures": 0,
         "last_outcome": "blocked",
@@ -2399,11 +2399,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:03Z",
-        "last_success": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 808,
+        "rtt_open_ms": 676,
         "supported_nips": [
           1,
           2,
@@ -2437,11 +2437,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:03Z",
-        "last_success": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 692,
+        "rtt_open_ms": 526,
         "supported_nips": [
           1,
           2,
@@ -2474,11 +2474,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:08Z",
-        "last_success": "2026-10-19T20:31:08Z",
+        "last_checked": "2026-10-20T00:12:30Z",
+        "last_success": "2026-10-20T00:12:30Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 810,
+        "rtt_open_ms": 836,
         "supported_nips": [
           1,
           2,
@@ -2509,11 +2509,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:02Z",
-        "last_success": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:23Z",
+        "last_success": "2026-10-20T00:12:23Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 161,
+        "rtt_open_ms": 261,
         "supported_nips": [
           1,
           4,
@@ -2548,9 +2548,9 @@
       "network": "clearnet",
       "health": {
         "state": "dead",
-        "last_checked": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:23Z",
         "last_success": null,
-        "consecutive_failures": 215,
+        "consecutive_failures": 216,
         "last_outcome": "failure",
         "last_error": "unexpected HTTP status 502 during WebSocket handshake"
       }
@@ -2566,11 +2566,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:04Z",
-        "last_success": "2026-10-19T20:31:04Z",
+        "last_checked": "2026-10-20T00:12:25Z",
+        "last_success": "2026-10-20T00:12:25Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 993,
+        "rtt_open_ms": 1079,
         "supported_nips": [
           1,
           2,
@@ -2598,11 +2598,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:23Z",
-        "last_success": "2026-10-19T20:31:23Z",
+        "last_checked": "2026-10-20T00:12:42Z",
+        "last_success": "2026-10-20T00:12:42Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 9153,
+        "rtt_open_ms": 6320,
         "supported_nips": [
           1,
           2,
@@ -2633,9 +2633,9 @@
       "network": "clearnet",
       "health": {
         "state": "dead",
-        "last_checked": "2026-10-19T20:32:05Z",
+        "last_checked": "2026-10-20T00:13:26Z",
         "last_success": null,
-        "consecutive_failures": 215,
+        "consecutive_failures": 216,
         "last_outcome": "failure",
         "last_error": "probe timed out after 30s"
       }
@@ -2656,11 +2656,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:03Z",
-        "last_success": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 350,
+        "rtt_open_ms": 379,
         "supported_nips": [
           1,
           2,
@@ -2692,11 +2692,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:10Z",
-        "last_success": "2026-10-19T20:31:10Z",
+        "last_checked": "2026-10-20T00:12:29Z",
+        "last_success": "2026-10-20T00:12:29Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 2005,
+        "rtt_open_ms": 2483,
         "supported_nips": [
           1,
           2,
@@ -2718,7 +2718,7 @@
       "network": "clearnet",
       "health": {
         "state": "blocked",
-        "last_checked": "2026-10-19T20:31:06Z",
+        "last_checked": "2026-10-20T00:12:23Z",
         "last_success": null,
         "consecutive_failures": 0,
         "last_outcome": "blocked",
@@ -2735,7 +2735,7 @@
       "network": "clearnet",
       "health": {
         "state": "blocked",
-        "last_checked": "2026-10-19T20:31:12Z",
+        "last_checked": "2026-10-20T00:12:33Z",
         "last_success": null,
         "consecutive_failures": 0,
         "last_outcome": "blocked",
@@ -2756,11 +2756,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:03Z",
-        "last_success": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:25Z",
+        "last_success": "2026-10-20T00:12:25Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 682
+        "rtt_open_ms": 765
       }
     },
     {
@@ -2780,9 +2780,9 @@
       "network": "clearnet",
       "health": {
         "state": "dead",
-        "last_checked": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:24Z",
         "last_success": null,
-        "consecutive_failures": 215,
+        "consecutive_failures": 216,
         "last_outcome": "failure",
         "last_error": "unexpected HTTP status 502 during WebSocket handshake"
       }
@@ -2800,9 +2800,9 @@
       "network": "clearnet",
       "health": {
         "state": "dead",
-        "last_checked": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:23Z",
         "last_success": null,
-        "consecutive_failures": 215,
+        "consecutive_failures": 216,
         "last_outcome": "failure",
         "last_error": "unexpected HTTP status 530 during WebSocket handshake"
       }
@@ -2822,7 +2822,7 @@
       "network": "clearnet",
       "health": {
         "state": "blocked",
-        "last_checked": "2026-10-19T20:31:02Z",
+        "last_checked": "2026-10-20T00:12:23Z",
         "last_success": null,
         "consecutive_failures": 0,
         "last_outcome": "blocked",
@@ -2843,9 +2843,9 @@
       "network": "clearnet",
       "health": {
         "state": "dead",
-        "last_checked": "2026-10-19T20:32:05Z",
+        "last_checked": "2026-10-20T00:13:26Z",
         "last_success": null,
-        "consecutive_failures": 215,
+        "consecutive_failures": 216,
         "last_outcome": "failure",
         "last_error": "probe timed out after 30s"
       }
@@ -2862,11 +2862,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:07Z",
-        "last_success": "2026-10-19T20:31:07Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 3951,
+        "rtt_open_ms": 638,
         "supported_nips": [
           1,
           11,
@@ -2894,11 +2894,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:07Z",
-        "last_success": "2026-10-19T20:31:07Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 3816,
+        "rtt_open_ms": 594,
         "supported_nips": [
           1,
           11,
@@ -2925,9 +2925,9 @@
       "network": "clearnet",
       "health": {
         "state": "dead",
-        "last_checked": "2026-10-19T20:31:06Z",
+        "last_checked": "2026-10-20T00:12:24Z",
         "last_success": null,
-        "consecutive_failures": 215,
+        "consecutive_failures": 216,
         "last_outcome": "failure",
         "last_error": "unexpected HTTP status 200 during WebSocket handshake"
       }
@@ -2944,11 +2944,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:07Z",
-        "last_success": "2026-10-19T20:31:07Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 3747,
+        "rtt_open_ms": 576,
         "supported_nips": [
           1,
           11,
@@ -2976,11 +2976,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:07Z",
-        "last_success": "2026-10-19T20:31:07Z",
+        "last_checked": "2026-10-20T00:12:24Z",
+        "last_success": "2026-10-20T00:12:24Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 3801,
+        "rtt_open_ms": 560,
         "supported_nips": [
           1,
           11,
@@ -3008,11 +3008,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:07Z",
-        "last_success": "2026-10-19T20:31:07Z",
+        "last_checked": "2026-10-20T00:12:25Z",
+        "last_success": "2026-10-20T00:12:25Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 3764,
+        "rtt_open_ms": 561,
         "supported_nips": [
           1,
           11,
@@ -3040,11 +3040,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:07Z",
-        "last_success": "2026-10-19T20:31:07Z",
+        "last_checked": "2026-10-20T00:12:25Z",
+        "last_success": "2026-10-20T00:12:25Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 3637,
+        "rtt_open_ms": 562,
         "supported_nips": [
           1,
           11,
@@ -3072,11 +3072,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:07Z",
-        "last_success": "2026-10-19T20:31:07Z",
+        "last_checked": "2026-10-20T00:12:25Z",
+        "last_success": "2026-10-20T00:12:25Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 3630,
+        "rtt_open_ms": 580,
         "supported_nips": [
           1,
           11,
@@ -3103,11 +3103,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:07Z",
-        "last_success": "2026-10-19T20:31:07Z",
+        "last_checked": "2026-10-20T00:12:25Z",
+        "last_success": "2026-10-20T00:12:25Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 3513,
+        "rtt_open_ms": 585,
         "supported_nips": [
           1,
           11,
@@ -3134,11 +3134,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:07Z",
-        "last_success": "2026-10-19T20:31:07Z",
+        "last_checked": "2026-10-20T00:12:25Z",
+        "last_success": "2026-10-20T00:12:25Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 3538,
+        "rtt_open_ms": 558,
         "supported_nips": [
           1,
           11,
@@ -3165,11 +3165,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:07Z",
-        "last_success": "2026-10-19T20:31:07Z",
+        "last_checked": "2026-10-20T00:12:25Z",
+        "last_success": "2026-10-20T00:12:25Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 3418,
+        "rtt_open_ms": 564,
         "supported_nips": [
           1,
           11,
@@ -3197,11 +3197,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:07Z",
-        "last_success": "2026-10-19T20:31:07Z",
+        "last_checked": "2026-10-20T00:12:25Z",
+        "last_success": "2026-10-20T00:12:25Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 3297,
+        "rtt_open_ms": 985,
         "supported_nips": [
           1,
           11,
@@ -3229,11 +3229,11 @@
       "network": "clearnet",
       "health": {
         "state": "healthy",
-        "last_checked": "2026-10-19T20:31:07Z",
-        "last_success": "2026-10-19T20:31:07Z",
+        "last_checked": "2026-10-20T00:12:25Z",
+        "last_success": "2026-10-20T00:12:25Z",
         "consecutive_failures": 0,
         "last_outcome": "success",
-        "rtt_open_ms": 3372,
+        "rtt_open_ms": 556,
         "supported_nips": [
           1,
           11,
@@ -3260,7 +3260,7 @@
       "network": "tor",
       "health": {
         "state": "skipped",
-        "last_checked": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:24Z",
         "last_success": null,
         "consecutive_failures": 0,
         "last_outcome": "skipped"
@@ -3278,7 +3278,7 @@
       "network": "tor",
       "health": {
         "state": "skipped",
-        "last_checked": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:24Z",
         "last_success": null,
         "consecutive_failures": 0,
         "last_outcome": "skipped"
@@ -3300,7 +3300,7 @@
       "network": "tor",
       "health": {
         "state": "skipped",
-        "last_checked": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:24Z",
         "last_success": null,
         "consecutive_failures": 0,
         "last_outcome": "skipped"
@@ -3322,7 +3322,7 @@
       "network": "tor",
       "health": {
         "state": "skipped",
-        "last_checked": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:24Z",
         "last_success": null,
         "consecutive_failures": 0,
         "last_outcome": "skipped"
@@ -3342,7 +3342,7 @@
       "network": "tor",
       "health": {
         "state": "skipped",
-        "last_checked": "2026-10-19T20:31:03Z",
+        "last_checked": "2026-10-20T00:12:24Z",
         "last_success": null,
         "consecutive_failures": 0,
         "last_outcome": "skipped"
