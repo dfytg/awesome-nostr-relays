@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "relays",
-  "message": "54/107 healthy",
-  "color": "yellow"
+  "message": "53/107 healthy",
+  "color": "red"
 }
